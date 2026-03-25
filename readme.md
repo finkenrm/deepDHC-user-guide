@@ -99,7 +99,6 @@ ACKNOWLEDGEMENTS
 This work was funded by the German Federal Ministry for Economic Affairs and Energy under the funding code 03EN3017. The responsibility for the content of this publication lies with the authors. If this code is used, the following paper should be cited as a reference:
 Finkenrath, M., Faber, T., Behrens, F., Leiprecht, S.: Holistic modelling and optimisation of thermal load forecasting, heat generation and plant dispatch for a district heating network. 250, Energy, 2022, https://doi.org/10.1016/j.energy.2022.123666
 
-```
 
 RELATED PUBLICATIONS
 
