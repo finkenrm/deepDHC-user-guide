@@ -96,5 +96,26 @@ print(f'nmae: {nmae}, mape : {mape}, rmse: {rmse}, mae: {mae}')
 
 ACKNOWLEDGEMENTS
 
-This work was funded by the German Federal Ministry for Economic Affairs and Energy under the funding code 03EN3017. The responsibility for the content of this publication lies with the authors. More information about the project is available on www.deepDHC.de. If this code is used, the following paper should be cited as a reference:
+This work was funded by the German Federal Ministry for Economic Affairs and Energy under the funding code 03EN3017. The responsibility for the content of this publication lies with the authors. If this code is used, the following paper should be cited as a reference:
 Finkenrath, M., Faber, T., Behrens, F., Leiprecht, S.: Holistic modelling and optimisation of thermal load forecasting, heat generation and plant dispatch for a district heating network. 250, Energy, 2022, https://doi.org/10.1016/j.energy.2022.123666
+
+RELATED PUBLICATIONS
+
+The final report of the deepDHC project can be found here: https://edocs.tib.eu/files/e01fb24/1902479297.pdf
+Other related publications from the team are:
+1.	Pressa, C., Leiprecht, S., Behrens, F., Jetzinger, V., Popma, H., Finkenrath, M.: Benchmarking of state-of-the-art machine learning methods for highly accurate thermal load forecasting in district heating networks, 36th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems, June 25-30, 2023, Las Palmas de Gran Canaria, Spain
+
+2.	Finkenrath, M., Faber, T., Behrens, F., Leiprecht, S.: Holistic modelling and optimisation of thermal load forecasting, heat generation and plant dispatch for a district heating network. 250, Energy, 2022, https://doi.org/10.1016/j.energy.2022.123666 
+
+3.	Behrens, F., Leiprecht, S., Brantl, J., Finkenrath, M.: Temporal Fusion Transformer for thermal load prediction in district heating and cooling networks, 63rd International Conference of Scandinavian Simulation Society (SIMS 2022), Trondheim, Norway, September 20-21, 2022
+
+4.	Behrens, F., Faber, T., Finkenrath, M., Leiprecht, S.: Implementing a Software System for Machine Learning Based Thermal Load Forecasting, ISEC 2022 – 2nd International Sustainable Energy Conference, Graz, Austria, April 4 – 7, 2022
+
+5.	Leiprecht, S., Behrens, F., Faber, T., Finkenrath, M.: A comprehensive thermal load forecasting analysis based on machine learning algorithms, Energy Reports, Vol. 7, Suppl. 4, 319-326, 2021, https://doi.org/10.1016/j.egyr.2021.08.140
+
+6.	Faber, T., Finkenrath, M.: Load forecasting in district heating systems using stacked ensembles of machine learning algorithms, Proceedings of the 14th International Renewable Energy Storage Conference 2020 (IRES 2020), https://doi.org/10.2991/ahe.k.210202.001
+
+7.	Finkenrath, M., Faber, T.: Optimierte Wärmelastprognose mittels Deep Learning, Kraftwerkstechnik 2019, ISBN 978-3-934409-93-4, 2019
+
+CONTACT INFORMATION
+Prof. Dr. Matthias Finkenrath, Kempten University of Applied Sciences, Mail: matthias.finkenrath@hs-kempten.de
